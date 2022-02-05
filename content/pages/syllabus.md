@@ -43,12 +43,57 @@ La evaluación
 
 La nota final consta de estos elementos:
 
-| ELEMENTOS | PORCENTAJES |
-| --- | --- |
-| La participación diaria en clase, incluyendo las presentaciones orales | 30% |
-| La participación en el proyecto MITUPV | 25% |
-| Los exámenes escritos y orales | 25% |
-| Los trabajos escritos | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ELEMENTOS
+{{< thclose >}}
+{{< thopen >}}
+PORCENTAJES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+La participación diaria en clase, incluyendo las presentaciones orales
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+La participación en el proyecto MITUPV
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Los exámenes escritos y orales
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Los trabajos escritos
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 La asistencia
 -------------
@@ -71,57 +116,494 @@ Aquí está un video con segmentos de las siguientes actividades:
 
 Aquí está una lista de las actividades diarias de la clase. Por favor visite [readings]({{< baseurl >}}/pages/readings) y [assignments]({{< baseurl >}}/pages/assignments) para ver el todo de la tarea.
 
-| CLASES | ACTIVIDADES DIARIAS |
-| --- | --- |
-| 1 | Introducción; actividad: "Convivencia"; recibir hojas (letra de canciones). |
-| 2 | Trabajar en grupos con canciones (pronosticar); mirar videos de canciones. |
-| 3 | _Gramática_, capitulo 1. |
-| 4 | _Lit. y arte_, Unidad 1. |
-| 5 | _Gramática_, capitulo 2. |
-| 6 | Empezar película [_El espinazo del diablo_](http://www.elespinazodeldiablo.com/). |
-| 7 | _Lit. y arte_, Unidad 2; seguir con [_El espinazo del diablo_](http://www.elespinazodeldiablo.com/). |
-| 8 | _Gramática_, capitulo 3. |
-| 9 | Seguir con [_El espinazo del diablo_](http://www.elespinazodeldiablo.com/). |
-| 10 | Dar resumen oral de su párrafo; seguir con [_El espinazo del diablo_](http://www.elespinazodeldiablo.com/). |
-| 11 | Seguir con [_El espinazo del diablo_](http://www.elespinazodeldiablo.com/). |
-| 12 | Acabar con [_El espinazo del diablo_](http://www.elespinazodeldiablo.com/). |
-| 13 | Actividad: "Engaño." |
-| 14 | Mirar segmentos del video filmado en Galicia (España); actividad de grupo con el video. |
-| 15 | _Gramática_, capitulo 4. |
-| 16 | _Gramática_, capitulo 5. |
-| 17 | Trabajar en grupos con la hoja de las predicciones; firmar hoja para el Examen Oral. |
-| 18 | Repaso; conversación sobre las noticias locales, nacionales o internacionales. |
-| 19 | Examen oral. |
-| 20 | Examen escrito. |
-| 21 | _Lit. y arte_, Unidad 4.  {{< br >}}  {{< br >}}Trabajar en grupos con la hoja sobre "Don Payasito." |
-| 22 | Ver breve segmento de la película [_Juana la Loca_](http://www.imdb.com/title/tt0270480/).  {{< br >}}  {{< br >}}Recibir videos de [_Juana la Loca_](http://www.imdb.com/title/tt0270480/) para compartir y ver fuera de clase (hay que acabar la película para el próximo semana). |
-| 23 | _Gramática_, capitulo 6. |
-| 24 | _Gramática_, capitulo 7. |
-| 25 | Actividad: "La universidad utópica." |
-| 26 | _Lit. y arte_, Unidad 5; discutir [_Juana la Loca_](http://www.imdb.com/title/tt0270480/). |
-| 27 | Examen escrito. |
-| 28 | _Lit. y arte_, Unidad 6. |
-| 29 | Empezar la película [_En el tiempo de las mariposas_](http://www.imdb.com/title/tt0263467/). |
-| 30 | Seguir con [_En el tiempo de las mariposas_](http://www.imdb.com/title/tt0263467/). |
-| 31 | Seguir con [_En el tiempo de las mariposas_](http://www.imdb.com/title/tt0263467/). |
-| 32 | Seguir con [_En el tiempo de las mariposas_](http://www.imdb.com/title/tt0263467/). |
-| 33 | _Gramática_, capitulo 8.  {{< br >}}  {{< br >}}Acabar [_En el tiempo de las mariposas_](http://www.imdb.com/title/tt0263467/). |
-| 34 | _Gramática_, capitulo 9. |
-| 35 | Video de Maná; actividad con entrevistas y canciones. |
-| 36 | Repaso de gramática y/o conversación. |
-| 37 | _Lit. y arte_, Unidad 7. |
-| 38 | _Gramática_, capitulo 10; empezar la película [_María llena eres de gracia_](http://www.mariallenaeresdegracia.com/). |
-| 39 | _Lit. y arte_, Unidad 8; seguir con [_María llena eres de gracia_](http://www.mariallenaeresdegracia.com/). |
-| 40 | _Gramática_, capitulo 11; seguir con [_María llena eres de gracia_](http://www.mariallenaeresdegracia.com/). |
-| 41 | _Lit. y arte_, Unidad 9; seguir con [_María llena eres de gracia_](http://www.mariallenaeresdegracia.com/). |
-| 42 | _Gramática_, capitulo 12; acabar [_María llena eres de gracia_](http://www.mariallenaeresdegracia.com/). |
-| 43 | _Lit. y arte_, Unidad 10 y 11; firmar hoja para Examen Oral. |
-| 44 | Examen oral. |
-| 45 | Actividad: "Gregorio y María"; recibir materiales para Actividad de los dos países. |
-| 46 | Actividad de los dos países. |
-| 47 | Repaso para Examen. |
-| 48 | Ultimo examen escrito. |
-| 49 | Presentar contribución a Enséñame.  {{< br >}}  {{< br >}}Empezar a planear minidramas/minicomedias. |
-| 50 | Seguir planeando minidramas/minicomedias. |
-| 51 | Seguir planeando minidramas/minicomedias. |
-| 52 | Presentar minidramas/minicomedias.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CLASES
+{{< thclose >}}
+{{< thopen >}}
+ACTIVIDADES DIARIAS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introducción; actividad: "Convivencia"; recibir hojas (letra de canciones).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Trabajar en grupos con canciones (pronosticar); mirar videos de canciones.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+_Gramática_, capitulo 1.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+_Lit. y arte_, Unidad 1.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+_Gramática_, capitulo 2.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Empezar película [_El espinazo del diablo_](http://www.elespinazodeldiablo.com/).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+_Lit. y arte_, Unidad 2; seguir con [_El espinazo del diablo_](http://www.elespinazodeldiablo.com/).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+_Gramática_, capitulo 3.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Seguir con [_El espinazo del diablo_](http://www.elespinazodeldiablo.com/).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Dar resumen oral de su párrafo; seguir con [_El espinazo del diablo_](http://www.elespinazodeldiablo.com/).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Seguir con [_El espinazo del diablo_](http://www.elespinazodeldiablo.com/).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Acabar con [_El espinazo del diablo_](http://www.elespinazodeldiablo.com/).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Actividad: "Engaño."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Mirar segmentos del video filmado en Galicia (España); actividad de grupo con el video.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+_Gramática_, capitulo 4.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+_Gramática_, capitulo 5.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Trabajar en grupos con la hoja de las predicciones; firmar hoja para el Examen Oral.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Repaso; conversación sobre las noticias locales, nacionales o internacionales.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Examen oral.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Examen escrito.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+_Lit. y arte_, Unidad 4.  
+  
+Trabajar en grupos con la hoja sobre "Don Payasito."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Ver breve segmento de la película [_Juana la Loca_](http://www.imdb.com/title/tt0270480/).  
+  
+Recibir videos de [_Juana la Loca_](http://www.imdb.com/title/tt0270480/) para compartir y ver fuera de clase (hay que acabar la película para el próximo semana).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+_Gramática_, capitulo 6.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+_Gramática_, capitulo 7.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Actividad: "La universidad utópica."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+_Lit. y arte_, Unidad 5; discutir [_Juana la Loca_](http://www.imdb.com/title/tt0270480/).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Examen escrito.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+_Lit. y arte_, Unidad 6.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Empezar la película [_En el tiempo de las mariposas_](http://www.imdb.com/title/tt0263467/).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Seguir con [_En el tiempo de las mariposas_](http://www.imdb.com/title/tt0263467/).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Seguir con [_En el tiempo de las mariposas_](http://www.imdb.com/title/tt0263467/).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+Seguir con [_En el tiempo de las mariposas_](http://www.imdb.com/title/tt0263467/).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+_Gramática_, capitulo 8.  
+  
+Acabar [_En el tiempo de las mariposas_](http://www.imdb.com/title/tt0263467/).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+_Gramática_, capitulo 9.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Video de Maná; actividad con entrevistas y canciones.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+Repaso de gramática y/o conversación.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+_Lit. y arte_, Unidad 7.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+38
+{{< tdclose >}}
+{{< tdopen >}}
+_Gramática_, capitulo 10; empezar la película [_María llena eres de gracia_](http://www.mariallenaeresdegracia.com/).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+39
+{{< tdclose >}}
+{{< tdopen >}}
+_Lit. y arte_, Unidad 8; seguir con [_María llena eres de gracia_](http://www.mariallenaeresdegracia.com/).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+{{< tdopen >}}
+_Gramática_, capitulo 11; seguir con [_María llena eres de gracia_](http://www.mariallenaeresdegracia.com/).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+41
+{{< tdclose >}}
+{{< tdopen >}}
+_Lit. y arte_, Unidad 9; seguir con [_María llena eres de gracia_](http://www.mariallenaeresdegracia.com/).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+42
+{{< tdclose >}}
+{{< tdopen >}}
+_Gramática_, capitulo 12; acabar [_María llena eres de gracia_](http://www.mariallenaeresdegracia.com/).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+43
+{{< tdclose >}}
+{{< tdopen >}}
+_Lit. y arte_, Unidad 10 y 11; firmar hoja para Examen Oral.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+44
+{{< tdclose >}}
+{{< tdopen >}}
+Examen oral.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+45
+{{< tdclose >}}
+{{< tdopen >}}
+Actividad: "Gregorio y María"; recibir materiales para Actividad de los dos países.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+46
+{{< tdclose >}}
+{{< tdopen >}}
+Actividad de los dos países.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+47
+{{< tdclose >}}
+{{< tdopen >}}
+Repaso para Examen.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+48
+{{< tdclose >}}
+{{< tdopen >}}
+Ultimo examen escrito.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+49
+{{< tdclose >}}
+{{< tdopen >}}
+Presentar contribución a Enséñame.  
+  
+Empezar a planear minidramas/minicomedias.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+50
+{{< tdclose >}}
+{{< tdopen >}}
+Seguir planeando minidramas/minicomedias.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+51
+{{< tdclose >}}
+{{< tdopen >}}
+Seguir planeando minidramas/minicomedias.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+52
+{{< tdclose >}}
+{{< tdopen >}}
+Presentar minidramas/minicomedias.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
