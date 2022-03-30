@@ -13,27 +13,216 @@ Sandstedt, Lynn A., Ralph Kite, and John G. Copeland. _Literatura y arte: Interm
 
 Gill, Mary McVey, Brenda Wegmann, and Teresa Méndez-Faith. _En contacto: Gramática en acción_. 7th ed. Boston, MA: Thomson/Heinle, 2003. ISBN: 003034722X.
 
-| CLASES | PARA LEER |
-| --- | --- |
-| 3 | _Gramática_, capítulo 1. |
-| 4 | _Lit. y arte_, Unidad 1. |
-| 5 | _Gramática_, capítulo 2. |
-| 7 | _Lit. y arte_, Unidad 2. |
-| 8 | _Gramática_, capítulo 3. |
-| 11 | _Lit. y arte_, Unidad 3. |
-| 15 | _Gramática_, capítulo 4. |
-| 16 | _Gramática_, capítulo 5. |
-| 21 | _Lit. y arte_, Unidad 4. |
-| 23 | _Gramática_, capítulo 6. |
-| 24 | _Gramática_, capítulo 7. |
-| 26 | _Lit. y arte_, Unidad 5, solamente la introducción y la sección sobre el arte. |
-| 28 | _Lit. y arte_, Unidad 6. (¡Ojo! Este cuento es difícil; trate de encontrar referencias a la Biblia judeocristiana.) |
-| 33 | _Gramática_, capítulo 8. |
-| 34 | _Gramática_, capítulo 9, solamente la introducción y la sección sobre el arte. |
-| 37 | _Lit. y arte_, Unidad 7. |
-| 38 | _Gramática_, capítulo 10. |
-| 39 | _Lit. y arte_, Unidad 8. |
-| 40 | _Gramática_, capítulo 11. |
-| 41 | _Lit. y arte_, Unidad 9. |
-| 42 | _Gramática_, capítulo 12. |
-| 43 | _Lit. y arte_, Unidad 10. También, Unidad 11, p. 160-164.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CLASES
+{{< thclose >}}
+{{< thopen >}}
+PARA LEER
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+_Gramática_, capítulo 1.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+_Lit. y arte_, Unidad 1.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+_Gramática_, capítulo 2.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+_Lit. y arte_, Unidad 2.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+_Gramática_, capítulo 3.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+_Lit. y arte_, Unidad 3.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+_Gramática_, capítulo 4.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+_Gramática_, capítulo 5.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+_Lit. y arte_, Unidad 4.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+_Gramática_, capítulo 6.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+_Gramática_, capítulo 7.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+_Lit. y arte_, Unidad 5, solamente la introducción y la sección sobre el arte.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+_Lit. y arte_, Unidad 6. (¡Ojo! Este cuento es difícil; trate de encontrar referencias a la Biblia judeocristiana.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+_Gramática_, capítulo 8.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+_Gramática_, capítulo 9, solamente la introducción y la sección sobre el arte.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+_Lit. y arte_, Unidad 7.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+38
+{{< tdclose >}}
+{{< tdopen >}}
+_Gramática_, capítulo 10.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+39
+{{< tdclose >}}
+{{< tdopen >}}
+_Lit. y arte_, Unidad 8.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+{{< tdopen >}}
+_Gramática_, capítulo 11.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+41
+{{< tdclose >}}
+{{< tdopen >}}
+_Lit. y arte_, Unidad 9.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+42
+{{< tdclose >}}
+{{< tdopen >}}
+_Gramática_, capítulo 12.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+43
+{{< tdclose >}}
+{{< tdopen >}}
+_Lit. y arte_, Unidad 10. También, Unidad 11, p. 160-164.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
